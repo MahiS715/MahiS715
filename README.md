@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm MahiS7 👋
 
-<!--
-**MahiS715/MahiS715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student fascinated by how things orbit... 
+From Planets, Satellites, and everything in between.
 
-Here are some ideas to get you started:
+I'm building a Notebook series on **Astrodynamics**:
+Simulation-First explorations of orbital mechanics using Python.
+Think of it as learning by making things move.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- 📓 Astrodynamics Notebooks — coded simulations + written explainers
+- 🛰️ Topics: Kepler's laws, orbit propagation, vis-viva equation...
+- 🧮 Tools: Python · NumPy · Matplotlib
+
+### Background
+Physics & Math nerd. I write to understand things deeply,
+then code to prove it to myself.
+
+### Find me
+- 📝 [Blog / Notebook series](#)
