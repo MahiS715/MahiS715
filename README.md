@@ -17,5 +17,5 @@ A PhyMath Enthusiast! I write to get hold of things with a deeper understanding,
 then code it to explain...
 
 ### Find me
-- 📝 [Blog Series](#)
+- 📝 [Blog Series](#) - In Process
 - 📱 [Astrodynamics App](https://fromphysicstoorbits.streamlit.app/)
